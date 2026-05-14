@@ -130,8 +130,8 @@ Requirements:
 * Elegant introduction card.
 * Statistics:
 
-  * 4+ Years Experience
-  * 50+ Projects
+  * 2+ Years Experience
+  * 2+ Projects
   * 20+ Clients
 * Soft glow card effects.
 * Light gradient background.
